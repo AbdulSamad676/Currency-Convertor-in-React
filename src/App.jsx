@@ -1,7 +1,9 @@
 function App() {
 	return (
 		<>
-			<h3>Currency Convertor</h3>
+			<h1 className='text-3xl text-center font-bold underline'>
+				Hello world!
+			</h1>
 		</>
 	);
 }
