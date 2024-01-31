@@ -73,6 +73,7 @@ function App() {
 								onCurrencyChange={currency => setTo(currency)}
 								selectCurrency={to}
 								amountDisabled={true}
+								// className={'bg-blue-950 text-white'}
 							/>
 						</div>
 						<button
